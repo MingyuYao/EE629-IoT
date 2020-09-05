@@ -2,7 +2,7 @@
 I will post reports under this folder
 
 Tasks:
- - [ ] Lesson 1
+ - [x] [Lesson 1](./#Lesson%201)
  - [ ] Lesson 2
  - [ ] Lesson 3
  - [ ] Lesson 4
@@ -12,3 +12,8 @@ Tasks:
  - [ ] Lesson 8
  - [ ] Lesson 9
  - [ ] Lesson 10
+ 
+ # Lesson 1
+ *Lab 1c: Startup Mailer*
+ 
+ Sending ip address from myNano device:
