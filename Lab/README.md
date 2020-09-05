@@ -2,7 +2,7 @@
 I will post reports under this folder
 
 Tasks:
- - [x] [Lesson 1](./#Lesson%201)
+ - [x] [Lesson 1](./#Lesson-1)
  - [ ] Lesson 2
  - [ ] Lesson 3
  - [ ] Lesson 4
