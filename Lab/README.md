@@ -17,3 +17,5 @@ Tasks:
  *Lab 1c: Startup Mailer*
  
  Sending ip address from myNano device:
+ 
+![my-ip-address](./Images/ip_me-1.png)
