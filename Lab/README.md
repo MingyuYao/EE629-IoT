@@ -19,3 +19,9 @@ Tasks:
  Sending ip address from myNano device:
  
 ![my-ip-address](./Images/ip_me-1.png)
+
+*lab 1d: VNC and SSH*
+
+Connect to myNano via VNC.
+
+![vnc-to-my-nano](./Images/EE629-Lab1d-vnc.gif)
