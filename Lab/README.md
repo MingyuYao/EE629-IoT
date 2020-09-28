@@ -3,7 +3,7 @@ I will post reports under this folder
 
 Tasks:
  - [x] [Lesson 1](./#Lesson-1)
- - [ ] Lesson 2
+ - [x] [Lesson 2](./#Lesson-2)
  - [ ] Lesson 3
  - [ ] Lesson 4
  - [ ] Lesson 5
@@ -25,3 +25,10 @@ Tasks:
 Connect to myNano via VNC.
 
 ![vnc-to-my-nano](./Images/EE629-Lab1d-vnc.gif)
+
+# Lesson 2
+*Lab 2h: Install and Run Flask app*
+![Hello-app](./Images/Flask_1.jpg)
+
+*Lab 2n: Install and run node-red
+![Node-red-startup](./Images/node-red_1.jpg)
