@@ -34,10 +34,12 @@ Connect to myNano via VNC.
 ![Node-red-startup](./Images/node-red_1.jpg)
 
 # Lesson 3
+
 *Lab 3m: testing date/datetime python script on local machine*
 ![date](./Images/date_1.png)
 ![datetime](./Images/datetime_1.png)
 
 *Lab 3j: connect socket client to socket server
+
 ![socket-connection](./Images/socket_conn.png)
 
