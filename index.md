@@ -3,6 +3,11 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 3 ###
+- Learn more about coding in python
+- Tested a few python script on local machine
+- Review previous lectures and read about Django and Flask frameworks.
+
 ### Week 2 ###
 - Installed Node-Red and Flask on my Jetson Nano
 - Tested my "hello world" Flask app
