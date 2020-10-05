@@ -4,7 +4,7 @@ I will post reports under this folder
 Tasks:
  - [x] [Lesson 1](./#Lesson-1)
  - [x] [Lesson 2](./#Lesson-2)
- - [ ] Lesson 3
+ - [x] [Lesson 3](./#Lesson-3)
  - [ ] Lesson 4
  - [ ] Lesson 5
  - [ ] Lesson 6
@@ -32,3 +32,12 @@ Connect to myNano via VNC.
 
 *Lab 2n: Install and run node-red
 ![Node-red-startup](./Images/node-red_1.jpg)
+
+# Lesson 3
+*Lab 3m: testing date/datetime python script on local machine*
+![date](./Images/date_1.png)
+![datetime](./Images/datetime_1.png)
+
+*Lab 3j: connect socket client to socket server
+![socket-connection](./Images/socket_conn.png)
+
