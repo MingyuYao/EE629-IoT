@@ -3,6 +3,13 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 5 \[10/11 - 10/18\] ###
+- Read and Installed the Alpine Linux on my VirtualBox
+- Installed Gnome Desktop Environment and docker.
+- [Link to Alpine Wiki](https://wiki.alpinelinux.org/wiki/Tutorials_and_Howtos)
+  - [Gnome Setup](https://wiki.alpinelinux.org/wiki/Gnome_Setup)
+  - [Docker](https://wiki.alpinelinux.org/wiki/Docker)
+
 ### Week 4 \[10/5 - 10/10\] ###
 - Update the date representation of weekly reports.
 - Learning more about python web frameworks.
