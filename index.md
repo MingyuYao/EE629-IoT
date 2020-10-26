@@ -3,6 +3,12 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+
+### Week 6 \[10/19 - 10/25\] ###
+- Experiment with flask framework
+- Deploy a working flask application locally --Flaskr
+- Prepare to deploy a flask based action center on myNano to interact with email, userdata, or AI generated data.
+
 ### Week 5 \[10/11 - 10/18\] ###
 - Read and Installed the Alpine Linux on my VirtualBox
 - Installed Gnome Desktop Environment and docker.
