@@ -57,6 +57,10 @@ Connect to myNano via VNC.
 *Lab 5b: Install Docker in Alpine Linux
 ![dina](./Images/docker_in_Alpine.png)
 
+# Lesson 6
+*Lab 6a:Flaskr demo - A complete Flask blogging app
+![flaskr_demo](./Images/flaskr_demo.gif)
+
 
 
 
