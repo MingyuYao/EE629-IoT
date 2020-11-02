@@ -3,6 +3,10 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 7 \[10/26 - 11/01\] ###
+- Learn About IoT adoption barriers
+- Read About ECEDHA Talent Brochure to get an Insight of the Industry to turn ideas to products.
+- Look through previous project designs and reports of classmates
 
 ### Week 6 \[10/19 - 10/25\] ###
 - Experiment with flask framework
