@@ -3,6 +3,12 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 8 \[11/02 - 11/08\] ###
+- Introduce to a collection of cool project sites worked by __Fabrice Bellard__:
+  - [JSLinux](https://bellard.org/jslinux/): Run a Virtual Machine inside a browser, build with JavaScript.
+  - [LTE/NR Base Station Software](https://bellard.org/lte/): A Introduction on 4G and 5G Base Station and LTEENB by AmariSoft.
+  - [QuickJS](https://bellard.org/quickjs/): A tiny JavaScript Engine Supporting ES2020 specification.
+  - [TCC](https://bellard.org/tcc/): A Tiny C Compiler which is smaller and faster than GCC and has full compliance to ISO C99 Standard.
 ### Week 7 \[10/26 - 11/01\] ###
 - Learn About IoT adoption barriers
 - Read About ECEDHA Talent Brochure to get an Insight of the Industry to turn ideas to products.
