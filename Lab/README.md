@@ -8,9 +8,9 @@ Tasks:
  - [x] [Lesson 4](./#Lesson-4)
  - [x] [Lesson 5](./#Lesson-5)
  - [x] [Lesson 6](./#Lesson-6)
- - [ ] Lesson 7
- - [ ] Lesson 8
- - [ ] Lesson 9
+ - [x] Lesson 7
+ - [x] Lesson 8
+ - [x] [Lesson 9](./#Lesson-9)
  - [ ] Lesson 10
  
  # Lesson 1
@@ -30,7 +30,7 @@ Connect to myNano via VNC.
 *Lab 2h: Install and Run Flask app*
 ![Hello-app](./Images/Flask_1.jpg)
 
-*Lab 2n: Install and run node-red
+*Lab 2n: Install and run node-red*
 ![Node-red-startup](./Images/node-red_1.jpg)
 
 # Lesson 3
@@ -39,27 +39,31 @@ Connect to myNano via VNC.
 ![date](./Images/date_1.png)
 ![datetime](./Images/datetime_1.png)
 
-*Lab 3j: connect socket client to socket server
+*Lab 3j: connect socket client to socket server*
 
 ![socket-connection](./Images/socket_conn.png)
 
 # Lesson 4
 
-* Updated Github Pages
+* Updated Github Pages*
 
-* Learn more about [flask](https://flask.palletsprojects.com/en/1.1.x/) 
+* Learn more about [flask](https://flask.palletsprojects.com/en/1.1.x/) *
 
 # Lesson 5
 
-*Lab 5a: Alpine Linux in Virtual box
+*Lab 5a: Alpine Linux in Virtual box*
 ![sysinfo](./Images/sysinfo.png)
 
-*Lab 5b: Install Docker in Alpine Linux
+*Lab 5b: Install Docker in Alpine Linux*
 ![dina](./Images/docker_in_Alpine.png)
 
 # Lesson 6
-*Lab 6a:Flaskr demo - A complete Flask blogging app
+*Lab 6a: Flaskr demo - A complete Flask blogging app*
 ![flaskr_demo](./Images/flaskr_demo.gif)
+
+# Lesson 9
+*Lab 9a: Flask mail demo - A Flask emailing app*
+![Flask-Mail](./Images/Flask-Mail.png)
 
 
 
