@@ -3,6 +3,11 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 9 \[11/02 - 11/08\] ###
+- Play with Flask Mail
+- Prepare to upload the Project code
+- Review the course material so far
+
 ### Week 8 \[11/02 - 11/08\] ###
 - Introduce to a collection of cool project sites worked by __Fabrice Bellard__:
   - [JSLinux](https://bellard.org/jslinux/): Run a Virtual Machine inside a browser, build with JavaScript.
