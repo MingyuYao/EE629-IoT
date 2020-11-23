@@ -3,7 +3,11 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
-### Week 9 \[11/02 - 11/08\] ###
+### Week 10 \[11/15 - 11/22\] ###
+- Update Project Repo
+- Exercises using Flask with Pymongo and MongoEngine.
+
+### Week 9 \[11/09 - 11/15\] ###
 - Play with Flask Mail
 - Prepare to upload the Project code
 - Review the course material so far
