@@ -3,6 +3,12 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 11 \[11/23 - 11/29\] ###
+- Update Project Progress
+- Learn about 2 docker containered mail server with demo:
+  - :cow: [mailcow](https://mailcow.github.io/mailcow-dockerized-docs/)
+  - :email: [mailu](https://mailu.io/master/demo.html)
+
 ### Week 10 \[11/15 - 11/22\] ###
 - Update Project Repo
 - Exercises using Flask with Pymongo and MongoEngine.
