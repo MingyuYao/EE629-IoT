@@ -18,7 +18,10 @@ The project are goint to use Flask with Flask-Mail, sqlite3 or Flask-PyMongo dep
 	flask run
 
 ### Project Demo & Issue Tracking
-:octocat: Working on it
+Completed the API for email verification and password reset of the app.
+![flaskr_demo_2](../Lab/Images/flaskr_demo_2.gif)
+
+:octocat: Working on integrating it with "flask-mail" ...
 
 ### Contribution & License
 I'm planning to release under ISC License.
