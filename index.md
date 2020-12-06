@@ -3,6 +3,11 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 12 \[11/30 - 12/06\] ###
+-  Learn about [flask jwt router](https://github.com/joegasewicz/flask-jwt-router)
+-  Learn about [hosting multiple flask apps in one domain](https://www.reddit.com/r/flask/comments/k26r5r/python_flask_multiple_applications_in_1_domain/)
+-  Review a blog about [another way to test flask mail application](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)
+
 ### Week 11 \[11/23 - 11/29\] ###
 - Update Project Progress
 - Learn about 2 docker containered mail server with demo:
