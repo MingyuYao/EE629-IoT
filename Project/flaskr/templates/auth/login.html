@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Log In{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <form method="post">
+    <label for="username">Username</label>
+    <input name="username" id="username" onkeyup="fun()" required>
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password" required>
+    <input type="submit" value="Log In">
+  </form>
+  <a href="#" id="pwc">Change Password</a>
+  <script>
+	function fun(){
+		let username = document.getElementById("username").value;
+		let pwc = document.getElementById("pwc");
+		pwc.setAttribute('href',"/auth/reset?usr="+username);
+	}
+  </script>
+{% endblock %}
