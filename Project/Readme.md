@@ -22,7 +22,7 @@ The project are goint to use Flask and a smtp server to add the email verificati
 
 ### Project Demo & Issue Tracking
 Completed the API for email verification and password reset of the app.
-![flaskr_demo_2](../Lab/Images/flaskr_demo_2.gif)
+![flaskr_demo_3](../Lab/Images/flaskr_demo_3.gif)
 
 :octocat: I used the smtplib instead of Flask-Mail to use the mail functionality without reconfigure the Flask app context ...
 
