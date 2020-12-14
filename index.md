@@ -7,6 +7,7 @@
 - Update the Project Examples
 - Added Dockerfile for deployment of flask application on Docker (still need to build by the user).
 - For embedding the video in Markdown as gif, there is a online [MP4 to GIF converter](https://www.onlineconverter.com/mp4-to-gif).
+- My GitHub Pages theme is based on [slate](https://github.com/pages-themes/slate), go to this repository to learn how you can customize it.
 
 ### Week 12 \[11/30 - 12/06\] ###
 -  Learn about [flask jwt router](https://github.com/joegasewicz/flask-jwt-router)
