@@ -3,6 +3,11 @@
 - [Project Repo](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
 - [Lab Exercises](https://github.com/MingyuYao/EE629-IoT/tree/master/Lab)
 
+### Week 13 \[12/07 - 12/13\] ###
+- Update the Project Examples
+- Added Dockerfile for deployment of flask application on Docker (still need to build by the user).
+- For embedding the video in Markdown as gif, there is a online [MP4 to GIF converter](https://www.onlineconverter.com/mp4-to-gif).
+
 ### Week 12 \[11/30 - 12/06\] ###
 -  Learn about [flask jwt router](https://github.com/joegasewicz/flask-jwt-router)
 -  Learn about [hosting multiple flask apps in one domain](https://www.reddit.com/r/flask/comments/k26r5r/python_flask_multiple_applications_in_1_domain/)
