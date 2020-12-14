@@ -14,9 +14,9 @@ The project are goint to use Flask and a smtp server to add the email verificati
 #### for Linux
 	$ export FLASK_APP=flaskr
    	$ export FLASK_ENV=development
-	#### start the local smtp server (DebuggingServer) in a separate terminal to receive the email message
+#### start the local smtp server (DebuggingServer) in a separate terminal to receive the email message
 	(venv) python -m smtpd -n -c DebuggingServer localhost:8025
-	#### initialize the database if running the first time.
+#### initialize the database if running the first time.
 	flask init-db
 	flask run
 
