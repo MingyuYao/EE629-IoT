@@ -8,12 +8,12 @@ The project are goint to use Flask and a smtp server to add the email verificati
 	#setting up venv (virtual environment) with
 	(venv) pip install flask
 	(venv) pip install sqlite3
-	#### for Windows
+#### for Windows
 	> set FLASK_APP=flaskr
-    	> set FLASK_ENV=development
-	#### for Linux
+   	> set FLASK_ENV=development
+#### for Linux
 	$ export FLASK_APP=flaskr
-    	$ export FLASK_ENV=development
+   	$ export FLASK_ENV=development
 	#### start the local smtp server (DebuggingServer) in a separate terminal to receive the email message
 	(venv) python -m smtpd -n -c DebuggingServer localhost:8025
 	#### initialize the database if running the first time.
