@@ -1,0 +1,56 @@
+{ 
+  jobId: '507f1f77bcf86cd799439011',
+  companyName: 'Good Job Inc.',
+  WorkingLoc: {
+	isRemote: true,
+	Street: '97 Palisade Ave.',
+	City: 'Jersey City',
+	Region: 'NJ',
+	Country: 'US',
+	PostalCode: '07304'
+  },
+  ContactEmail: "careers@GJob.com",
+  ContactPhone: "1234567890"
+  CompanyLinks: [
+	about: "http://GJob.com/about",
+	apply: "http://GJob.com/apply"
+  ],
+  jobTitle: "Web Developer",
+  datePosted: "2020-11-13",
+  dateExpired: "2020-11-20",
+  dateStart: "2021-05-21",
+  dateEnd: null,
+  jobType: ['full-time'],
+
+  jobLangLocale: "en-us",
+  jobExpYr: 2,
+  jobSkill: {
+	required: { "any-1": ["flask","Django","Nodejs","ruby-on-rails"],
+		    "any-2": ["sqlite","mongodb","postgresql","MySQL"],
+		    "all-1": ["HTML5", "Bootstrap", "ES6", "CSS"] },
+	optional: { "any-1": ["Agile Dev", "Embedded system", "Mobile Dev"]}
+  },
+  jobCert:{
+	required: {},
+	optional: {}
+  },
+  jobSalary_level: 4,
+  applyType: ["online", "email"],
+  hireProcess: ["phone-interview","zoom-interview"],
+  demographicReq:{
+	Gender: "All",
+	Race: "All",
+	Age: [20,45],
+	Disability: [],
+	Education_Level: 4,
+	OtherReq: []
+  },
+  jobDescription: "Description of the job goes here.",
+  jobDuty: ["Testing and Maintaining the Good Job Listing Site.",
+	    "Migrate UserData to decentralized database cluster.",
+	    "Work with Design and customer service group on new feature implementation",
+	    "Promote our service through IoT Devices."]
+
+}
+
+

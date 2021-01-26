@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Programmer",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://johndoe.com",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "CA"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "http://twitter.com/john"
+    }]
+  },
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+	  "NodeJS",
+	  "MongoDB"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "jobRequire":{
+	"jobTitle": ["Web Developer", "Programmer"],
+	"City": ["San Francisco"],
+	"remote": true,
+	"dateStart": "2021-03-12",
+	"jobType": ["full-time"],
+	"applyType": ["email"],
+	"notification": ["phone", "email"]
+  }
+}
